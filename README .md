@@ -17,6 +17,11 @@ This analysis helps uncover patterns in customer demographics, account informati
   - Isolated customers with **two-year contracts**, payment via mailed check, and churn status **"Yes"**.
   - Random sampling of 333 records for deeper analysis.
 
+## Dashboard
+<img width="1376" height="764" alt="image" src="https://github.com/user-attachments/assets/a9b04e8c-430d-4dc5-a2c5-94c5b9be51de" />
+
+
+
 ## 🎯 Analysis Goals
 - Identify customer segments with higher churn risk.
 - Understand the relationship between contract type, payment method, and churn rate.
