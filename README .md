@@ -18,7 +18,7 @@ This analysis helps uncover patterns in customer demographics, account informati
   - Random sampling of 333 records for deeper analysis.
 
 ## Dashboard
-<img width="1376" height="764" alt="image" src="https://github.com/user-attachments/assets/a9b04e8c-430d-4dc5-a2c5-94c5b9be51de" />
+<img width="1277" height="715" alt="Screenshot 2025-08-15 133208" src="https://github.com/user-attachments/assets/058ff3af-f417-43dd-83f9-3ff3e56309f6" />
 
 
 
